@@ -1,6 +1,6 @@
 # Daily Parser
 
-[![25% AI Used](https://img.shields.io/badge/25%25-AI%20Used-yellowgreen)](https://github.com/sinokadev/aislop-badge)
+[![50% AI Slop](https://img.shields.io/badge/50%25-AI%20Slop-yellow)](https://github.com/sinokadev/aislop-badge)
 
 We will build a parser for an international standard every day until January 1st, 2027!  
 However, the international standards are strictly limited to string-based formats.

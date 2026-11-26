@@ -1,0 +1,1 @@
+class SpecViolationError(Exception): pass
