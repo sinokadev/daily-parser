@@ -9,8 +9,8 @@ However, the international standards are strictly limited to string-based format
 3. 1 Day 1 Parser: Add support for one new standard parser every day from November 27th, 2026, to January 1st, 2027.
 
 ## Supported Standards
-- [ ] Day 01 (2026-11-27): `Semantic Versioning 2.0.0`
-- [ ] Day 02 (2026-11-28): `UUID (RFC 9562 / RFC 4122)`
+- [x] Day 01 (2026-11-27): `Semantic Versioning 2.0.0`
+- [x] Day 02 (2026-11-28): `UUID (RFC 9562 / RFC 4122)`
 - [ ] Day 03 (2026-11-29): `ISBN-13 (ISO 2108)`
 - [ ] Day 04 (2026-11-30): `Base64 (RFC 4648)`
 - [ ] Day 05 (2026-12-01): `Data URL (RFC 2397)`
